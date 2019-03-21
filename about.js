@@ -11,3 +11,7 @@ function logger(message, type = 'trace') {
 	console.log(error)
   })
 }
+
+function test(a) {
+  return a.split(' ').reverse().join('')
+}
