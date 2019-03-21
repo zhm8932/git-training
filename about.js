@@ -15,3 +15,4 @@ function logger(message, type = 'trace') {
 function test(a) {
   return a.split(' ').reverse().join('')
 }
+
