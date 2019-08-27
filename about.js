@@ -1,6 +1,7 @@
 var a = '123';
 var f = '123';
 var d = '123';
+var f = '123321';
 
 
 function logger(message, type = 'trace') {
